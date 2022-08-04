@@ -1,5 +1,5 @@
-# YADE
-YADE is Yet Another Desktop Environment
+# JADE
+JADE is Just Another Desktop Environment
 
 ## Setup
 
